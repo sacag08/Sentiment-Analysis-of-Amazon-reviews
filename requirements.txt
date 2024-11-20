@@ -3,3 +3,6 @@ scikit-learn
 matplotlib
 seaborn
 ipykernel
+tensorflow<2.11
+cudatoolkit=11.2
+cudnn=8.1.0
